@@ -21,18 +21,18 @@ public class Menu {
                 d = sc.nextInt();
                 switch (opt) {
                     case 1:
-                        Punto1 p1 = new Punto1();
-                        p1.P1(d, opt);
+                        
                         break;
                     case 2:
                         break;
                     case 3:
+                        Juan_David_Liñan p3 = new Juan_David_Liñan();
+                        p3.P3(d);
                         break;
                     case 4:
                         break;
                     case 5:
-                        Punto5 p5 = new Punto5();
-                        p5.p5(d, opt);
+                       
                         break;
                     case 6:
                         break;
